@@ -40,7 +40,7 @@ a
    <img style="margin-left: 30px" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
 </div> -->
 
-<div align="center">
-<img style="margin-top: 30px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/>
+<div align="center" style="margin-top: 30px">
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/>
 </div>
 
