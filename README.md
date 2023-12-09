@@ -32,11 +32,7 @@ I'm a junior MERN Stack Developer. I have experience building web applications u
    <img style="margin-left: 30px" width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
 </div>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077)  -->
- <a align="center"  href=""><img style="margin-top: 30px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=2077"/></a>
-
-Junior MERN Stack Developer | 
-Passionate about creating seamless web experiences with React.js, Node.js, Express.js and MongoDB.
+<a align="center"  href=""><img style="margin-top: 30px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></a>
 
  
 
