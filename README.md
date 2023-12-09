@@ -24,13 +24,23 @@ I'm a junior MERN Stack Developer. I have experience building web applications u
 - 🤔 I’m looking for help with: Strategies for optimizing performance and efficiency in MERN Stack applications.
 - 💬 Ask me about: Anything related to MERN Stack development. I'm always up for a tech chat!
 - 📫 How to reach me: morzmamun@gmail.com
-
+a
 
 ### 📋My Profile Summary
-<div style="display: flex;" >
+
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
+   <img style="margin-left: 10px" width="" height="" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=morz-mamun&show_icons=true&theme=radical" />
+  </div>
+</div>
+<!-- <div style="display: flex;" >
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=morz-mamun&show_icons=true&theme=radical" />
    <img style="margin-left: 30px" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
-</div>
+</div> -->
 
-<a align="center"  href=""><img style="margin-top: 30px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></a>
+<div align="center">
+<img style="margin-top: 30px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/>
+</div>
 
