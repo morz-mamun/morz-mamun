@@ -28,16 +28,20 @@ a
 
 ### 📋My Profile Summary
 
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=morz-mamun&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
+
 <div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
-   <img width="" height="" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=morz-mamun&show_icons=true&theme=radical" />
-  </div>
+<div style="margin-top: 50px"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></div>
 </div>
 
-style="margin-left: 10px"
-<div align="center">
-<div style="margin-top: 30px"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></div>
-</div>
 
+
+<!-- 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/wolfiee42/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io) -->
