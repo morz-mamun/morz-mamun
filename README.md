@@ -29,10 +29,8 @@ I'm a junior MERN Stack Developer. I have experience building web applications u
 ### 📋My Profile Summary
 <div style="display: flex;" >
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=morz-mamun&show_icons=true&theme=radical" />
-   <img style="margin-left: 30px" width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
+   <img style="margin-left: 30px" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
 </div>
 
 <a align="center"  href=""><img style="margin-top: 30px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></a>
-
- 
 
