@@ -51,10 +51,3 @@ a
 <div align="center">
 <div style="margin-top: 50px"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></div>
 </div>
-
-
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/wolfiee42/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
-
-
