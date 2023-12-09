@@ -1,19 +1,19 @@
 ![Mamun-02](https://github.com/morz-mamun/morz-mamun/assets/138389296/d11efc7c-a4ab-4e84-b220-9a11099ca96c)
 
 
-### 👨🏻‍💻 About Me  
-I'm a junior MERN Stack Developer. I have experience building web applications using MongoDB, Express.js, React.js, and Node.js. I am passionate about creating user-friendly and responsive web applications.I am always looking for opportunities to learn and grow as a developer.
+### 👨🏻‍💻 Hi... <img width="20" src="https://github.com/morz-mamun/morz-mamun/assets/138389296/e5f43e38-d736-4fb8-8b1a-ab5465e7bb5a"/>  
+I'm Md Morshed Alam. A junior MERN Stack Developer. I have experience building web applications using MongoDB, Express.js, React.js, and Node.js. I am passionate about creating user-friendly and responsive web applications.I am always looking for opportunities to learn and grow as a developer.
+
+
+### 📫 How to Reach Me
+ [<img src="https://github.com/morz-mamun/morz-mamun/assets/138389296/d003eea2-6a7f-464f-a3ab-22276b257571"/>](https://www.linkedin.com/in/md-morshed-alam-2324022a4/ "The best search engine for privacy")
+ [<img width="32" src="https://github.com/morz-mamun/morz-mamun/assets/138389296/58f4a56c-7b58-4fb5-bdde-3d11f8deeb5c"/>](https://www.facebook.com/ "The best search engine for privacy")
+
 
 ### 🛠️ My Skills
 
 <div align="center">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,mongodb&theme=light"/></a>
-</div>
-
-
-### 🔥GitHub Activity Streak
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=morz-mamun"/></a>
 </div>
 
 ### 🎯Currently Focus On
@@ -23,8 +23,13 @@ I'm a junior MERN Stack Developer. I have experience building web applications u
 - 👯 I’m looking to collaborate on: Innovative projects that challenge and expand my MERN Stack expertise. 
 - 🤔 I’m looking for help with: Strategies for optimizing performance and efficiency in MERN Stack applications.
 - 💬 Ask me about: Anything related to MERN Stack development. I'm always up for a tech chat!
-- 📫 How to reach me: morzmamun@gmail.com
-a
+
+
+
+### 🔥GitHub Activity Streak
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=morz-mamun"/></a>
+</div>
 
 ### 📋My Profile Summary
 <div align="center">
