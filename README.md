@@ -27,9 +27,10 @@ I'm a junior MERN Stack Developer. I have experience building web applications u
 a
 
 ### 📋My Profile Summary
-
-
-<table cellpadding="0">
+<div align="center">
+<div><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></div>
+</div>
+<table>
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api?username=morz-mamun&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
@@ -38,16 +39,12 @@ a
   </tr>
   
 </table>
-<table cellpadding="0">
+<table>
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" width="300" src="https://api.githubtrends.io/user/svg/morz-mamun/repos?time_range=one_year&theme=dark"/></td>
+    <td valign="top"><img height="300" src="https://api.githubtrends.io/user/svg/morz-mamun/repos?time_range=one_year&theme=dark"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morz-mamun&theme=2077&utcOffset=8"/></td>
   </tr>
 </table>
 
-
-<div align="center">
-<div style="margin-top: 50px"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></div>
-</div>
