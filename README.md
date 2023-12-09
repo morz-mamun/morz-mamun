@@ -1,16 +1,42 @@
-### Hi there 👋
+![Mamun-02](https://github.com/morz-mamun/morz-mamun/assets/138389296/d11efc7c-a4ab-4e84-b220-9a11099ca96c)
 
-<!--
-**morz-mamun/morz-mamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 About Me  
+I'm a junior MERN Stack Developer. I have experience building web applications using MongoDB, Express.js, React.js, and Node.js. I am passionate about creating user-friendly and responsive web applications.I am always looking for opportunities to learn and grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills
+
+<div align="center">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,mongodb&theme=light"/></a>
+</div>
+
+
+### 🔥GitHub Activity Streak
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=morz-mamun"/></a>
+</div>
+
+### 🎯Currently Focus On
+
+- 🔭 I’m currently working on: Exciting MERN Stack projects to enhance my skills and showcase my abilities.
+- 🌱 I’m currently learning: Advance techniques in JavaScript, React.js, Node.js, and MongoDB to stay at the forefront of web development.
+- 👯 I’m looking to collaborate on: Innovative projects that challenge and expand my MERN Stack expertise. 
+- 🤔 I’m looking for help with: Strategies for optimizing performance and efficiency in MERN Stack applications.
+- 💬 Ask me about: Anything related to MERN Stack development. I'm always up for a tech chat!
+- 📫 How to reach me: morzmamun@gmail.com
+
+
+### 📋My Profile Summary
+<div style="display: flex;" >
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=morz-mamun&show_icons=true&theme=radical" />
+   <img style="margin-left: 30px" width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
+</div>
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077)  -->
+ <a align="center"  href=""><img style="margin-top: 30px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=2077"/></a>
+
+Junior MERN Stack Developer | 
+Passionate about creating seamless web experiences with React.js, Node.js, Express.js and MongoDB.
+
+ 
+
