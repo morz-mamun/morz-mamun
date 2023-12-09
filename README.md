@@ -31,16 +31,13 @@ a
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
-   <img style="margin-left: 10px" width="" height="" style="vertical-align: top;" />
+   <img width="" height="" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=morz-mamun&show_icons=true&theme=radical" />
   </div>
 </div>
-<!-- <div style="display: flex;" >
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=morz-mamun&show_icons=true&theme=radical" />
-   <img style="margin-left: 30px" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morz-mamun&theme=radical&layout=compact" />
-</div> -->
 
-<div align="center" style="margin-top: 30px">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/>
+style="margin-left: 10px"
+<div align="center">
+<div style="margin-top: 30px"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morz-mamun&theme=2077"/></div>
 </div>
 
