@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"><a href="https://gazinahian.vercel.app" target="_blank"><code>Md Morshed Alam</code></a></h1>
+<h1 align="center"><a href="https://md-morshed.vercel.app" target="_blank"><code>Md Morshed Alam</code></a></h1>
 
 Frontend-focused Full Stack Developer — building clean UI and APIs, web & mobile apps.
 
